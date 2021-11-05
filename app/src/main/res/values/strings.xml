@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppHorizon</string>
+    <string name="nome">Nome do Paciente</string>
+    <string name="idade">Idade</string>
+    <string name="temperatura_corporal">Temperatura Corporal</string>
+    <string name="dias_com_tosse">Período (em dias) com tosse</string>
+    <string name="dias_com_dor_de_cabeca">Período (em dias) com enxaqueca</string>
+    <string name="visitou_algum_desses_paises_nas_ultimas_semanas">Visitou algum desses países nas ultimas semanas?</string>
+    <string name="italia">Itália</string>
+    <string name="china">China</string>
+    <string name="indonesia">Indonésia</string>
+    <string name="portugal">Portugal</string>
+    <string name="eua">Eua</string>
+    <string name="paises_visitados">Há quantas semanas esses países foram visitados?</string>
+    <string name="botao_enviar">Enviar</string>
+</resources>
